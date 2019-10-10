@@ -10,7 +10,7 @@ For the laser cutting, I used the provided template as a starting point. Since I
 
 For the 3D printing, I also started with the template provited for the servo mount. I used Cura to add the stl file for the servo mount to the program and then adjusted the different printing settings (material, whether to add support or not, thickness of layers, etc.). These decisions are specific to the object being printed and I used my best judgment to print in a way that reduced time and material while still maintaining structural integrity. I then printed the servo mount successfully. 
 
-I also made use of 3D printing for creating the jack. Initially, I designed a simple face/character to use for the jack on the CAD software provided. However, I then decided that I wanted to keep going with my animal theme and that I could find much more impressive designs online. Therefore, I found an already created obj file of a bear's face and printed it following the same method I used when printing the servo mount (except I added a support this time). STL/OBJ files for both my original jack design and the bear can be foun below.  
+I also made use of 3D printing for creating the jack. Initially, I designed a simple face/character to use for the jack on the CAD software provided. However, I then decided that I wanted to keep going with my animal theme and that I could find much more impressive designs online. Therefore, I found an already created obj file of a bear's face and printed it following the same method I used when printing the servo mount (except I added a support this time). STL/OBJ files for both my original jack design and the bear can be found below.  
 
 ## Electronics
 
