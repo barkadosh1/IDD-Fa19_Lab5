@@ -4,7 +4,7 @@
 
 ## Laser Cutting
 
-For the laser cutting, I used the provided template as a starting point. Since I wanted my jack in the box to have an animal theme, I also wanted to add etching to my box. To do this, I added images of animals to the different faces of my box. When actually using the later cut, I made sure to provide the different paramaters for cutting mode and etching mode. I also chose to use a larger scale for my cuts for no particular reason other than thinking it would look better.
+For the laser cutting, I used the provided template as a starting point. Since I wanted my jack in the box to have an animal theme, I also wanted to add etching to my box. To do this, I added images of animals to the different faces of my box. When actually using the laser cut, I made sure to provide the different paramaters for cutting mode and etching mode. I also chose to use a larger scale for my cuts for no particular reason other than thinking it would look better.
 
 ## 3D Printing/Creating Jack
 
