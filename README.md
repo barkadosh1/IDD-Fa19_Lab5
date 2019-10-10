@@ -36,4 +36,16 @@ I then glued by bear "jack" to the top face of the box, and attached the top fac
 
 Additional photos of my box faces with etches, 3D printed bear jack, interior arranagment, and overall arrangement can be found below.
 
-<img src="https://github.com/barkadosh1/IDD-Fa19-Lab3/blob/master/Screen%20Shot%202019-09-27%20at%2010.53.34%20PM.png">
+<img src="https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/IMG_9634.jpeg">
+
+<img src="https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/IMG_9635.jpeg">
+
+<img src="https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/IMG_9636.jpeg">
+
+<img src="https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/IMG_9637.jpeg">
+
+<img src="https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/IMG_9638.jpeg">
+
+<img src="https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/IMG_9639.jpeg">
+
+<img src="https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/IMG_9641.jpeg">
