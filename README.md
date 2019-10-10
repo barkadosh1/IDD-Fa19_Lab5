@@ -14,16 +14,24 @@ I also made use of 3D printing for creating the jack. Initially, I designed a si
 
 ## Electronics
 
-The electronics were fairly simple -- I simply connected the servo and a switch to my circuit so that when the switch is pressed, the servo will rotate to open the hinged door. I also then downloaded and reviewed the code/program for opening the jack in the box.
+The electronics were fairly simple -- I simply connected the servo and a button to my circuit so that when the switch is pressed, the servo will rotate to open the hinged door. I also then downloaded and reviewed the code/program for opening the jack in the box.
 
 ## Putting it All Together
 
+When putting it all together, the following process was followed. I first attached two sides to the bottom piece and securely glued all 3 together. I then added another side and glued it to the bottom and adjacent sides. For the last side, I first carved out a hole so that the servo's wires could flow out and drilled two holes for the servo mount to connect to. I then attached the fourth side and glued it on. 
+
+At this point, I screwed the servo into the server mount and attached the cardboard piece to the servo mount that would help open the top side when rotated. I attached the servo mount to side with the holes I drilled for the mount, then connected the proper wiring, and then made sure that my servo was rotating when the button was pressed. I also updated the code so that the open position was 70 degrees instead of 110, as my servo's initial position was already a bit rotated past 0 degrees (0 degrees being parallel to the the bottom of the box).
+
+I then glued by bear "jack" to the top face of the box, and attached the top face of the box through the hinge mechanism so that it could be open or closed and made sure it did indeed open and close when I pressed the button. Lastly, I wanted it to customize it so that the box stays open until "night time" when the animals would have to go to sleep and stop "roaring". Therefore I added a photo sensor to my circuit. I also altered the code so that once the button was pressed and let go of, if the light measure was higher than a certain value, the box would remain open. Only when the light level fell below a certain level would the box close and then could only be opened again by pressing the button.
+
 ## Final Deliverables
 
-[My Jack Design STL]
+[My Jack Design STL](https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/JackMan.stl)
 
 [Bear Design OBJ](https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/bear.OBJ)
 
 [Jack in the Box Code](https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/motor.ino)
 
 [Jack in the Box Video](https://youtu.be/3AtJwbNAvXA)
+
+Additional photos of my box faces with etches, 3D printed bear jack, interior arranagment, and overall arrangement can be found below.
