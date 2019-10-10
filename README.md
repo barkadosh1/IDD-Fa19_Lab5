@@ -1,4 +1,4 @@
-# Jack in the Box
+# Jack In The Box
 
 *A lab report by Bar Kadosh* 
 
@@ -16,7 +16,7 @@ I also made use of 3D printing for creating the jack. Initially, I designed a si
 
 The electronics were fairly simple -- I simply connected the servo and a button to my circuit so that when the switch is pressed, the servo will rotate to open the hinged door. I also then downloaded and reviewed the code/program for opening the jack in the box.
 
-## Putting it All Together
+## Putting It All Together
 
 When putting it all together, the following process was followed. I first attached two sides to the bottom piece and securely glued all 3 together. I then added another side and glued it to the bottom and adjacent sides. For the last side, I first carved out a hole so that the servo's wires could flow out and drilled two holes for the servo mount to connect to. I then attached the fourth side and glued it on. 
 
