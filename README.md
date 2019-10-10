@@ -19,3 +19,9 @@ The electronics were fairly simple -- I simply connected the servo and a switch 
 ## Putting it All Together
 
 ## Final Deliverables
+
+[My Jack Design STL]
+
+[Bear Design STL]
+
+[Jack in the Box Code](https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/motor.ino)
